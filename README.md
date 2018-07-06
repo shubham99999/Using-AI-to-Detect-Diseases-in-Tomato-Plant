@@ -1,4 +1,4 @@
-# Using-AI-for-Detecting-Diseases-in-Tomato-Plant
+# Using-AI-to-Detect-Diseases-in-Tomato-Plant
 
 Theme of Project- AI in agriculture  
 
